@@ -1,0 +1,21 @@
+{
+    "name": "danfsd/php-express-session-handler",
+    "description": "Session Handler that talks the same language as your express-session.",
+    "type": "library",
+    "version": "0.0.1",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Faria Sampaio",
+            "email": "daniel.faria.sampaio@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "danfsd\\": "src/"
+        }
+    }
+}
