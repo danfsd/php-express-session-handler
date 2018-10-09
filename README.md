@@ -68,7 +68,7 @@ $handler->populateSession();
 echo "<pre>";
 var_dump($_SESSION);
 var_dump($_COOKIE);
-echo "</pre>"
+echo "</pre>;"
 ```
 
 More examples will be disclosed soon.
